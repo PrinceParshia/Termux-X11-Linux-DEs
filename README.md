@@ -1,6 +1,8 @@
 Not ready yet!!!
 
-```pkg update && pkg upgrade```
+```
+pkg update && pkg upgrade
+```
 ```pkg install x11-repo``` 
 ```pkg install proot-distro termux-x11 wget pulseaudio```
 ```proot-distro install manjaro```
