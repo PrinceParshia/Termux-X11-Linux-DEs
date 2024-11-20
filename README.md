@@ -14,11 +14,6 @@ CTRL - X - Y
 ```nano /etc/sudoers```
 ```<username> ALL=(ALL:ALL) ALL```
 ```passwd <username>```
-```wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh```
-```nano manjaro-xfce.sh```
-Change <username> to the username u created in manjaro shell
-```chmod +x manjaro-xfce.sh```
-```./manjaro-xfce.sh```
 
 Manjaro default theme
 ```proot-distro login manjaro --user <username>```
@@ -33,3 +28,9 @@ For theme see the video
 ```tar -xf Papirus*.tar.xz```
 ```mv Matcha-dark-sea /usr/share/themes```
 ```mv Papirus* /usr/share/icons```
+
+```wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh```
+```nano manjaro-xfce.sh```
+Change <username> to the username u created in manjaro shell
+```chmod +x manjaro-xfce.sh```
+```./manjaro-xfce.sh```
