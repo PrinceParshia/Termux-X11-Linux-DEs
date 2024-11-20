@@ -19,3 +19,11 @@ CTRL - X - Y
 Change <username> to the username u created in manjaro shell
 ```chmod +x manjaro-xfce.sh```
 ```./manjaro-xfce.sh```
+
+Manjaro default theme
+```proot-distro login manjaro --user <username>```
+```git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git```
+```rm -r ~/.config/xfce4```
+```rm -r ~/.config/Thunar```
+```mv manjaro-xfce-settings/skel/.config/xfce4 ~/.config```
+```mv manjaro-xfce-settings/skel/.config/Thunar ~/.config```
