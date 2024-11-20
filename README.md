@@ -12,4 +12,4 @@ CTRL - X - Y
 ```nano /etc/sudoers```
 ```<username> ALL=(ALL:ALL) ALL```
 ```passwd <username>```
-```wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh```
+```wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh?token=GHSAT0AAAAAAC2WJTWDPQZ6OLQPHHNIO4ICZZ54QZA```
