@@ -27,3 +27,9 @@ Manjaro default theme
 ```rm -r ~/.config/Thunar```
 ```mv manjaro-xfce-settings/skel/.config/xfce4 ~/.config```
 ```mv manjaro-xfce-settings/skel/.config/Thunar ~/.config```
+For theme see the video 
+```cd Downloads```
+```tar -xf Matcha-dark-sea.tar.xz```adjust as file name
+```tar -xf Papirus*.tar.xz```
+```mv Matcha-dark-sea /usr/share/themes```
+```mv Papirus* /usr/share/icons```
