@@ -1,4 +1,4 @@
-Not redy yet!!!
+Not ready yet!!!
 
 ```pkg update && pkg upgrade```
 ```pkg install x11-repo``` 
