@@ -10,4 +10,6 @@ CTRL - X - Y
 ```pacman -S sudo git xfce4 xfce4-goodies tumbler engrampa```
 ```useradd -m <username>```
 ```nano /etc/sudoers```
-```
+```<username> ALL=(ALL:ALL) ALL```
+```passwd <username>```
+wget
