@@ -31,7 +31,7 @@ Now execute the following commands in the Manjaro Shell.
 ```
 pacman -S sudo git xfce4 xfce4-goodies tumbler engrampa
 ```
-You have to download a browser to access the internet. FireFox is recommend.
+You have to download a browser to access the internet. FireFox is recommended.
 ```
 pacman -S chromium
 ```
@@ -68,13 +68,12 @@ CTRL - X - Y - ENTER
 ```
 chmod +x manjaro-xfce.sh
 ```
-Now run downloaded startup file to start the desktop. You can use it later to run the desktop again. For now execute it one time and exit using the termux exit button on the notification bar.
+Now run downloaded startup file to start the desktop. You can use it later to run the desktop again.
 ```
 ./manjaro-xfce.sh
 ```
 Manjaro Default Xfce theme doesn't comes with it. We have to download it manually. If you dont want the Manjaro default theme you can skip it.
 
-Open Termuc again. In termux shell execute this command to open manjaro with your new user.
 ```
 proot-distro login manjaro --user <username>
 ```
