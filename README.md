@@ -57,7 +57,7 @@ wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/h
 ```
 nano manjaro-xfce.sh
 ```
-Scroll and change <username> to the user you created in manjaro shell
+Scroll and change <username> (line 20) to the user you created in manjaro shell
 ```
 chmod +x manjaro-xfce.sh
 ```
