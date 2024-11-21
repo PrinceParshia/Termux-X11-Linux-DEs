@@ -1,5 +1,6 @@
 ## MANJARO-XFCE
-* Video Tutorial
+* ![1000222364](https://github.com/user-attachments/assets/61eee1df-7336-4391-8dca-850abbd414ea)
+
 ---
 Open Termux and execute these commands.
 ```
