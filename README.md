@@ -31,7 +31,7 @@ Now execute the following commands in the Manjaro Shell.
 ```
 pacman -S sudo git xfce4 xfce4-goodies tumbler engrampa
 ```
-You have to download a browser to access the internet. Cromium is recommend because it's an arm version of Google Chrome (Unofficial).
+You have to download a browser to access the internet. FireFox is recommend.
 ```
 pacman -S chromium
 ```
