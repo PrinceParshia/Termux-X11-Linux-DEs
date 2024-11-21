@@ -1,5 +1,6 @@
 ## MANJARO-XFCE
-* ![1000222364](https://github.com/user-attachments/assets/61eee1df-7336-4391-8dca-850abbd414ea)
+* ![Screenshot_2024-11-21_08-03-21](https://github.com/user-attachments/assets/762326c2-71d5-4dd9-9a12-a056a02fcd66)
+
 
 ---
 Open Termux and execute these commands.
