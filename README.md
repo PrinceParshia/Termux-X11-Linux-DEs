@@ -50,15 +50,26 @@ Now set a password to access your new user.
 ```
 passwd <username>
 ```
+Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shel execute ```exit``` untill you see "~ $") Then execute.
+```
+wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh
+```
+```
+nano manjaro-xfce.sh
+```
+Scroll and change <username> to the user you created in manjaro shell
+```
+chmod +x manjaro-xfce.sh
+```
+Now run downloaded startup file to start the desktop. You can use it later to run the desktop again. For now execute it one time and exit using the termux exit button on the notification bar.
+```
+./manjaro-xfce.sh
+```
 Manjaro Default Xfce theme doesn't comes with it. We have to download it manually. If you dont want the Manjaro default theme you can skip it.
 
-In termux shell execute this command to open manjaro with your new user.
+Open Termuc again. In termux shell execute this command to open manjaro with your new user.
 ```
 proot-distro login manjaro --user <username>
-```
-If your already in Manjaro shell <[root@localhost ~]#> execute 
-```
-su - <username>
 ```
 Then execute these commands.
 ```
@@ -94,18 +105,6 @@ mv Matcha-dark-sea /usr/share/themes
 ```
 mv Papirus* /usr/share/icons
 ```
-Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shel execute ```exit``` untill you see "~ $") Then execute.
-```
-wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh
-```
-```
-nano manjaro-xfce.sh
-```
-Scroll and change <username> to the user you created in manjaro shell
-```
-chmod +x manjaro-xfce.sh
-```
-Now run downloaded startup file to start the desktop. You can use it later to run the desktop again.
-```
-./manjaro-xfce.sh
-```
+
+Now you can start your desktop using the startup file and you can close it by terminating termux using the exit button on the notification bar. 
+Note: Before exiting check if ur all info in desktop is saved otherwise unsaved changes may gone.
