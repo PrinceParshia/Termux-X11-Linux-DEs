@@ -12,7 +12,7 @@ Now install Manjaro using Proot-Distro.
 proot-distro install manjaro
 proot-distro login manjaro
 ```
-After installation, You should see this <[root@localhost ~]#>. If it is, execute the following commands.
+After installation, You should see this [root@localhost ~]#. If it is, execute the following commands.
 ```
 pacman -Syu
 ```
@@ -41,6 +41,7 @@ Give the sudo permission to your user.
 ```
 nano /etc/sudoers
 ```
+Paste this under root ALL=(ALL:ALL) ALL.
 ```
 <username> ALL=(ALL:ALL) ALL
 ```
@@ -50,14 +51,14 @@ Now set a password to access your new user.
 ```
 passwd <username>
 ```
-Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shel execute ```exit``` untill you see "~ $") Then execute.
+Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shel execute ```exit```.
 ```
 wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh
 ```
 ```
 nano manjaro-xfce.sh
 ```
-Scroll and change <username> (line 20) to the user you created in manjaro shell.
+Scroll and change ```<username>``` (line 20) to the user you created in manjaro shell.
 CTRL - X - Y - ENTER
 ```
 chmod +x manjaro-xfce.sh
