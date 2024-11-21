@@ -24,13 +24,13 @@ You should see a text editor page, scroll down using down arrow and try to find 
 ```
 SigLevel = Never
 ```
-After this to exit the page press CTRL 1 time the press these keys on your keyboard X then Y then ENTER.
+After this to exit the page press CTRL 1 time then press these keys on your keyboard X then Y then ENTER.
 
 Now execute the following commands in the Manjaro Shell.
 ```
 pacman -S sudo git xfce4 xfce4-goodies tumbler engrampa
 ```
-You have to download a browser to access the internet. Cromium is recommend because it's an arm version of Google Chrome (Unofficial)
+You have to download a browser to access the internet. Cromium is recommend because it's an arm version of Google Chrome (Unofficial).
 ```
 pacman -S chromium
 ```
@@ -77,7 +77,7 @@ mv manjaro-xfce-settings/skel/.config/xfce4 ~/.config
 ```
 mv manjaro-xfce-settings/skel/.config/Thunar ~/.config
 ```
-Download the theme files called Matca-dark-sea and Papirus-teal-folders.
+Download the theme files called Matcha-dark-sea and Papirus-teal-folders.
 Then execute this commands 
 ```
 cd Downloads
