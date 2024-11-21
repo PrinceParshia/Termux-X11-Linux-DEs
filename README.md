@@ -35,6 +35,9 @@ You have to download a browser to access the internet. Cromium is recommend beca
 ```
 pacman -S chromium
 ```
+```
+pacman -S firefox
+```
 Then create a user to acces the Manjaro Desktop.
 ```
 useradd -m <username>
