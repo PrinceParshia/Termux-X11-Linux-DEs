@@ -1,4 +1,3 @@
-Not ready yet!!!
 ## MANJARO-XFCE
 * Video Tutorial
 ---
