@@ -93,7 +93,7 @@ Now run downloaded startup file to start the desktop. You can use it later to ru
 ./manjaro-xfce.sh
 ```
 Download the theme files called Matcha-dark-sea and Papirus-teal-folders.
-Then execute this commands 
+Then execute this commands in Termux-X11 opened manjaro terminal.
 ```
 cd Downloads
 ```
