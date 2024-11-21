@@ -2,17 +2,11 @@ Not ready yet!!!
 
 ```
 pkg update && pkg upgrade
-```
-```
 pkg install x11-repo
-``` 
-```
 pkg install proot-distro termux-x11 wget pulseaudio
 ```
 ```
 proot-distro install manjaro
-```
-```
 proot-distro login manjaro
 ```
 ```
@@ -24,10 +18,11 @@ nano /etc/pacman.conf
 ```
 SigLevel = Never
 ```
-CTRL - X - Y
+CTRL - X - Y -ENTER
 ```
 pacman -S sudo git xfce4 xfce4-goodies tumbler engrampa
 ```
+BROWSER
 ```
 pacman -S chromium
 ```
