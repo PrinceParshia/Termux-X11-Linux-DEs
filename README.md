@@ -55,27 +55,10 @@ CTRL - X - Y - ENTER
 Now set a password to access your new user.
 ```
 passwd <username>
-```
-Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shel execute ```exit```.
-```
-wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh
-```
-```
-nano manjaro-xfce.sh
-```
-Scroll and change ```<username>``` (line 20) to the user you created in manjaro shell.
-CTRL - X - Y - ENTER
-```
-chmod +x manjaro-xfce.sh
-```
-Now run downloaded startup file to start the desktop. You can use it later to run the desktop again.
-```
-./manjaro-xfce.sh
-```
+``` 
 Manjaro Default Xfce theme doesn't comes with it. We have to download it manually. If you dont want the Manjaro default theme you can skip it.
-
 ```
-proot-distro login manjaro --user <username>
+su - <username>
 ```
 Then execute these commands.
 ```
@@ -92,6 +75,22 @@ mv manjaro-xfce-settings/skel/.config/xfce4 ~/.config
 ```
 ```
 mv manjaro-xfce-settings/skel/.config/Thunar ~/.config
+```
+Now install the startup command using wget (Termux-X11 app is required). In Termux Shell (If your in manjaro shell execute ```exit```).
+```
+wget https://raw.githubusercontent.com/PrinceParshia/manjaro-xfce-android/refs/heads/main/manjaro-xfce.sh
+```
+```
+nano manjaro-xfce.sh
+```
+Scroll and change ```<username>``` (line 20) to the user you created in manjaro shell.
+CTRL - X - Y - ENTER
+```
+chmod +x manjaro-xfce.sh
+```
+Now run downloaded startup file to start the desktop. You can use it later to run the desktop again.
+```
+./manjaro-xfce.sh
 ```
 Download the theme files called Matcha-dark-sea and Papirus-teal-folders.
 Then execute this commands 
