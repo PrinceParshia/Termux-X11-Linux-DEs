@@ -110,6 +110,9 @@ mv Matcha-dark-sea /usr/share/themes
 ```
 mv Papirus* /usr/share/icons
 ```
+```
+mv Papirus-dark /usr/share/icons
+```
 
 Now you can start your desktop using the startup file and you can close it by terminating termux using the exit button on the notification bar. 
 Note: Before exiting check if ur all info in desktop is saved otherwise unsaved changes may gone.
