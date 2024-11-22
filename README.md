@@ -6,4 +6,4 @@
 
 | MANJARO |
 |---------|
-| <a href="/manjaro/README.md">![1000222367](https://github.com/user-attachments/assets/bdcb5b24-7d9d-45e9-a1c3-d0bc9dca65e6) |
+| <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="125"></a> |
