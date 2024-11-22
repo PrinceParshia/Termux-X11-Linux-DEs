@@ -87,3 +87,18 @@ Start Manjaro desktop with:
 ./manjaro-xfce.sh
 ```
 Download the Matcha-Sea theme and Papirus icon theme, add and apply (Shown in the video)
+
+## TOOLTIP
+* Start Manjaro Desktop using (In Termux Shell):
+  ```
+  ./manjaro-xfce.sh
+  ```
+* Close Manjaro Desktop using the exit button on the notifications bar
+* Open Manjaro Shell in Termux using:
+  ```
+  proot-distro login manjaro
+  ```
+  And with a specific user:
+  ```
+  proot-distro login manjaro --user <username>
+  ```
