@@ -1,5 +1,5 @@
 ## REQUIREMENTS
-* Termux snd Termux-X11 installed.
+* [Termux](https://github.com/termux/termux-app/releases) and [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly) installed.
 * At least 6GB ram Android device (For better experience).
 * 10GB+ empty storage space.
 ---
