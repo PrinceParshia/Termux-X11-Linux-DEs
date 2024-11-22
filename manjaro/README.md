@@ -69,4 +69,21 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 mv manjaro-xfce-settings/skel/.config /home/<username>/
 ```
-Install the startup file to start Manjaro
+Execute ```exit``` until you appear in Termux Shell.
+
+Download the Manjaro Startup file:
+```
+wget
+```
+```
+nano manjaro-xfce.sh
+```
+Scroll to line 20 and change ```<username>``` to your username you created in Manjaro Shell. CTRL - X - Y - ENTER.
+```
+chmod +x manjaro-xfce.sh
+```
+Start Manjaro desktop with: 
+```
+./manjaro-xfce.sh
+```
+Download the Matcha-Sea theme and Papirus icon theme, add and apply (Shown in the video)
