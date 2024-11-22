@@ -29,7 +29,7 @@ Scroll and change SigLevel value to Never:
 ```
 SigLevel = Never
 ```
-To save and exit press CTRL - X - Y - Enter.
+To save and exit press CTRL - X - Y - ENTER.
 
 Install xfce4 and additional packages:
 ```
