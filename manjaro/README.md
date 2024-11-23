@@ -71,7 +71,6 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 mv manjaro-xfce-settings/skel/.config /home/<username>/
 ```
-[Matcha-Sea](https://www.xfce-look.org/p/1187179/ ),[Papirus](https://www.xfce-look.org/p/1166289/)
 Execute ```exit``` until you appear in Termux Shell.
 
 Download the Manjaro Startup file:
@@ -88,6 +87,28 @@ chmod +x manjaro-xfce.sh
 Start Manjaro desktop with: 
 ```
 ./manjaro-xfce.sh
+```
+Open Chromium and Download [Matcha-Sea](https://www.xfce-look.org/p/1187179/ ),[Papirus-Teal-Folders](https://www.xfce-look.org/p/1166289/). Then execute:
+```
+cd Downloads/
+```
+Adjust names:
+```
+tar -xf Matcha*.tar.xz
+```
+```
+tar -xf Papirus*.tar.xz
+```
+Choose a Matcha version you want(Dark/light/default-mixed):
+```
+mv Matcha-version /usr/share/themes/
+```
+```
+mv Papirus /usr/share/icons/
+```
+Choose Papirus dark or light version:
+```
+mv Papirus-version /usr/share/icons/
 ```
 ---
 ## TOOLTIP
