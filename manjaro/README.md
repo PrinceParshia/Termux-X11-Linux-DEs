@@ -110,7 +110,12 @@ Choose Papirus dark or light version:
 ```
 mv Papirus-version /usr/share/icons/
 ```
----
+```
+cd /usr/share/icons/
+```
+```
+git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
+```
 ## TOOLTIP
 * Start Manjaro Desktop using (In Termux Shell):
   ```
