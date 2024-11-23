@@ -1,5 +1,3 @@
-Not finished!!!!!
-
 ## MANJARO-XFCE
 ![Screenshot_2024-11-21_08-03-21](https://github.com/user-attachments/assets/762326c2-71d5-4dd9-9a12-a056a02fcd66)
 
@@ -116,6 +114,7 @@ cd /usr/share/icons/
 ```
 git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
 ```
+Change the default theme from Settings -> Appearance. Add the Manjaro icon on panel from Panel Preferences -> Items -> Whisker Menu Settings -> Appearance, Select icon from /usr/share/icons/manjaro-icons/maia/128x128.png.
 ## TOOLTIP
 * Start Manjaro Desktop using (In Termux Shell):
   ```
