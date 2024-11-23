@@ -88,7 +88,7 @@ Start Manjaro desktop with:
 ```
 ./manjaro-xfce.sh
 ```
-Download the Matcha-Sea theme and Papirus icon theme, add and apply (Shown in the video)
+Download the [Matcha-Sea](https://www.xfce-look.org/p/1187179/ ) theme and [Papirus](https://www.xfce-look.org/p/1166289/) icon theme, add and apply (Shown in the video)
 
 ## TOOLTIP
 * Start Manjaro Desktop using (In Termux Shell):
