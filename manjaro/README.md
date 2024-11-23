@@ -86,6 +86,7 @@ Start Manjaro desktop with:
 ```
 ./manjaro-xfce.sh
 ```
+Open Edit Application window of Chromium and add ```--no-sandbox``` after the command.
 Open Chromium and Download [Matcha-Sea](https://www.xfce-look.org/p/1187179/ ),[Papirus-Teal-Folders](https://www.xfce-look.org/p/1166289/). Then execute:
 ```
 cd Downloads/
