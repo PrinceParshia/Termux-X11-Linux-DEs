@@ -113,7 +113,7 @@ mv Papirus-version /usr/share/icons/
 cd /usr/share/icons/
 ```
 ```
-git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
+git clone https://raw.githubusercontent.com/anemosfy/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
 ```
 Change the default theme from Settings -> Appearance. Add the Manjaro icon on panel from Panel Preferences -> Items -> Whisker Menu Settings -> Appearance, Select icon from /usr/share/icons/manjaro-icons/maia/128x128.png.
 ## TOOLTIP
