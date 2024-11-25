@@ -73,7 +73,7 @@ Execute ```exit``` until you appear in Termux Shell.
 
 Download the Manjaro Startup file:
 ```
-wget https://raw.githubusercontent.com/PrinceParshia/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
+wget https://raw.githubusercontent.com/Anemosfy/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
 ```
 ```
 nano manjaro-xfce.sh
