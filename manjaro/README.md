@@ -140,6 +140,7 @@ git clone https://raw.githubusercontent.com/anemosfy/Linux-XFCE-Android/refs/hea
 ![1000249347](https://github.com/user-attachments/assets/f4362cf1-b8b4-48e8-bd39-8744faf38e1b)
 ![1000249348](https://github.com/user-attachments/assets/97284495-41c5-4e58-ae75-791baf127b34)
 ![1000249349](https://github.com/user-attachments/assets/f6182238-9552-48b9-9f14-25b9bb7a0e49)
+Your all set! Now you can do your work here.
 
 ---
 ## TOOLTIP
