@@ -101,7 +101,7 @@ Search ```papirus xfce``` and download:
 ![1000249343](https://github.com/user-attachments/assets/0737d137-0ea1-4081-a81e-637112ad4f72)
 ![1000249334](https://github.com/user-attachments/assets/9b602c45-d749-4792-9c68-802b2820e045)
 Open terminal and execute:
-![1000249336](https://github.com/user-attachments/assets/bf058517-825f-4750-ab62-79e16e6f8050)
+![1000249350](https://github.com/user-attachments/assets/daa66ce6-433a-40a1-8672-d66228dc4cd7)
 ```
 cd Downloads/
 ```
