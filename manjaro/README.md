@@ -98,20 +98,19 @@ Search ```matcha xfce``` and download the theme:
 ![1000249331](https://github.com/user-attachments/assets/c2574ec1-cd1f-45d2-9058-7b11dfb81b75)
 Search ```papirus xfce``` and download:
 ![1000249332](https://github.com/user-attachments/assets/b5f8b34d-c933-412e-b0fc-0e7b663211e8)
-
+![1000249343](https://github.com/user-attachments/assets/0737d137-0ea1-4081-a81e-637112ad4f72)
 ![1000249334](https://github.com/user-attachments/assets/9b602c45-d749-4792-9c68-802b2820e045)
-
-
-
+Open terminal and execute:
+![1000249336](https://github.com/user-attachments/assets/bf058517-825f-4750-ab62-79e16e6f8050)
 ```
 cd Downloads/
 ```
-Adjust names:
+Adjust names if its different:
 ```
-tar -xf Matcha*.tar.xz
+tar -xf Matcha-dark-sea.tar.xz
 ```
 ```
-tar -xf Papirus*.tar.xz
+tar -xf papirus-icon-theme-teal-folders.tar.xz
 ```
 Choose a Matcha version you want(Dark/light/default-mixed):
 ```
@@ -130,7 +129,19 @@ cd /usr/share/icons/
 ```
 git clone https://raw.githubusercontent.com/anemosfy/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
 ```
-Change the default theme from Settings -> Appearance. Add the Manjaro icon on panel from Panel Preferences -> Items -> Whisker Menu Settings -> Appearance, Select icon from /usr/share/icons/manjaro-icons/maia/128x128.png.
+![1000249337](https://github.com/user-attachments/assets/ee7faf76-3c0a-47a1-8b4e-6e6d6ff39c26)
+![1000249338](https://github.com/user-attachments/assets/103188d3-9c2f-4173-b39b-f27c7a1a20b5)
+![1000249339](https://github.com/user-attachments/assets/d0345187-b5e6-4d98-9a2d-b33d71ad37d8)
+![1000249341](https://github.com/user-attachments/assets/51099b77-2aa4-4cb1-8b0a-ebabbc83de80)
+![1000249342](https://github.com/user-attachments/assets/2e9fd421-0df3-4108-97eb-f85b5d7c3031)
+![1000249344](https://github.com/user-attachments/assets/ed371815-f08f-4899-a456-5de1051a417b)
+![1000249345](https://github.com/user-attachments/assets/c494bb71-1d8c-4516-aa4c-8c17c34b32df)
+![1000249346](https://github.com/user-attachments/assets/de23b103-b803-4e34-83c3-ed9a5d6e96ba)
+![1000249347](https://github.com/user-attachments/assets/f4362cf1-b8b4-48e8-bd39-8744faf38e1b)
+![1000249348](https://github.com/user-attachments/assets/97284495-41c5-4e58-ae75-791baf127b34)
+![1000249349](https://github.com/user-attachments/assets/f6182238-9552-48b9-9f14-25b9bb7a0e49)
+
+---
 ## TOOLTIP
 * Start Manjaro Desktop using (In Termux Shell):
   ```
