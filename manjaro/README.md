@@ -86,8 +86,23 @@ Start Manjaro desktop with:
 ```
 ./manjaro-xfce.sh
 ```
-Open Edit Application window of Chromium and add ```--no-sandbox``` after the command.
-Open Chromium and Download [Matcha-Sea](https://www.xfce-look.org/p/1187179/ ),[Papirus-Teal-Folders](https://www.xfce-look.org/p/1166289/). Then execute:
+After Manjaro launched:
+![1000249325](https://github.com/user-attachments/assets/58095ee5-bf86-4fe7-97fc-d47a2b40408f)
+![1000249326](https://github.com/user-attachments/assets/5f11c07c-7053-48a4-8d61-9ab5c10b3c3f)
+Add ```--no-sandbox``` flag after the command:
+![1000249327](https://github.com/user-attachments/assets/c362378c-75a9-43c4-ae00-4038804fbca6)
+![1000249328](https://github.com/user-attachments/assets/6b1f4434-f6ca-40c2-9afd-e6ed9ec8967f)
+Search ```matcha xfce``` and download the theme:
+![1000249329](https://github.com/user-attachments/assets/4534aaf1-b3d7-4d0b-966c-c46a93756942)
+![1000249330](https://github.com/user-attachments/assets/7d44dc38-3706-483e-9835-4dc88e31fc3a)
+![1000249331](https://github.com/user-attachments/assets/c2574ec1-cd1f-45d2-9058-7b11dfb81b75)
+Search ```papirus xfce``` and download:
+![1000249332](https://github.com/user-attachments/assets/b5f8b34d-c933-412e-b0fc-0e7b663211e8)
+
+![1000249334](https://github.com/user-attachments/assets/9b602c45-d749-4792-9c68-802b2820e045)
+
+
+
 ```
 cd Downloads/
 ```
