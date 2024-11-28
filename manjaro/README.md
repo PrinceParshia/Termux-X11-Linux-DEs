@@ -33,7 +33,11 @@ To save and exit press CTRL - X - Y - ENTER.
 
 Install xfce4 and additional packages:
 ```
-pacman -S xfce4 xfce4-goodies tumbler engrampa git sudo
+pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole
+```
+Install the default Manjaro themes:
+```
+pacman -S matcha-gtk-theme papirus-icon-theme
 ```
 Install a browser to access internet:
 ```
@@ -64,7 +68,7 @@ Login to your user:
 ```
 su - <username>
 ```
-Install Manjaro default xfce theme:
+Install Manjaro default xfce settings:
 ```
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
@@ -88,61 +92,8 @@ Start Manjaro desktop with:
 ```
 ./manjaro-xfce.sh
 ```
-After Manjaro launched:
-![1000249325](https://github.com/user-attachments/assets/58095ee5-bf86-4fe7-97fc-d47a2b40408f)
-![1000249326](https://github.com/user-attachments/assets/5f11c07c-7053-48a4-8d61-9ab5c10b3c3f)
-Add ```--no-sandbox``` flag after the command:
-![1000249327](https://github.com/user-attachments/assets/c362378c-75a9-43c4-ae00-4038804fbca6)
-![1000249328](https://github.com/user-attachments/assets/6b1f4434-f6ca-40c2-9afd-e6ed9ec8967f)
-Search ```matcha xfce``` and download the theme:
-![1000249329](https://github.com/user-attachments/assets/4534aaf1-b3d7-4d0b-966c-c46a93756942)
-![1000249330](https://github.com/user-attachments/assets/7d44dc38-3706-483e-9835-4dc88e31fc3a)
-![1000249331](https://github.com/user-attachments/assets/c2574ec1-cd1f-45d2-9058-7b11dfb81b75)
-Search ```papirus xfce``` and download:
-![1000249332](https://github.com/user-attachments/assets/b5f8b34d-c933-412e-b0fc-0e7b663211e8)
-![1000249343](https://github.com/user-attachments/assets/0737d137-0ea1-4081-a81e-637112ad4f72)
-![1000249334](https://github.com/user-attachments/assets/9b602c45-d749-4792-9c68-802b2820e045)
-Open terminal and execute:
-![1000249350](https://github.com/user-attachments/assets/daa66ce6-433a-40a1-8672-d66228dc4cd7)
-```
-cd Downloads/
-```
-Adjust names if its different:
-```
-tar -xf Matcha-dark-sea.tar.xz
-```
-```
-tar -xf papirus-icon-theme-teal-folders.tar.xz
-```
-Choose a Matcha version you want(Dark/light/default-mixed):
-```
-mv Matcha-version /usr/share/themes/
-```
-```
-mv Papirus /usr/share/icons/
-```
-Choose Papirus dark or light version:
-```
-mv Papirus-version /usr/share/icons/
-```
-```
-cd /usr/share/icons/
-```
-```
-git clone https://raw.githubusercontent.com/anemosfy/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
-```
-![1000249337](https://github.com/user-attachments/assets/ee7faf76-3c0a-47a1-8b4e-6e6d6ff39c26)
-![1000249338](https://github.com/user-attachments/assets/103188d3-9c2f-4173-b39b-f27c7a1a20b5)
-![1000249339](https://github.com/user-attachments/assets/d0345187-b5e6-4d98-9a2d-b33d71ad37d8)
-![1000249341](https://github.com/user-attachments/assets/51099b77-2aa4-4cb1-8b0a-ebabbc83de80)
-![1000249342](https://github.com/user-attachments/assets/2e9fd421-0df3-4108-97eb-f85b5d7c3031)
-![1000249344](https://github.com/user-attachments/assets/ed371815-f08f-4899-a456-5de1051a417b)
-![1000249345](https://github.com/user-attachments/assets/c494bb71-1d8c-4516-aa4c-8c17c34b32df)
-![1000249346](https://github.com/user-attachments/assets/de23b103-b803-4e34-83c3-ed9a5d6e96ba)
-![1000249347](https://github.com/user-attachments/assets/f4362cf1-b8b4-48e8-bd39-8744faf38e1b)
-![1000249348](https://github.com/user-attachments/assets/97284495-41c5-4e58-ae75-791baf127b34)
-![1000249349](https://github.com/user-attachments/assets/f6182238-9552-48b9-9f14-25b9bb7a0e49)
-Your all set! Now you can do your work here.
+After Manjaro is launched:
+
 
 ---
 ## TOOLTIP
