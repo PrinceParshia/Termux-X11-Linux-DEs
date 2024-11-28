@@ -33,7 +33,7 @@ To save and exit press CTRL - X - Y - ENTER.
 
 Install xfce4 and additional packages:
 ```
-pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole
+pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole sudo git
 ```
 Install the default Manjaro themes:
 ```
