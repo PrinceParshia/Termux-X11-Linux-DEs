@@ -75,6 +75,12 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 mv manjaro-xfce-settings/skel/.config /home/<username>/
 ```
+```
+cd /usr/share/icons/
+```
+```
+git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
+```
 Execute ```exit``` until you appear in Termux Shell.
 
 Download the Manjaro Startup file:
