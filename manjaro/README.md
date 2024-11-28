@@ -93,8 +93,10 @@ Start Manjaro desktop with:
 ./manjaro-xfce.sh
 ```
 After Manjaro is launched:
+If your using Chromium do this step:
 ![1000249491](https://github.com/user-attachments/assets/51a29c74-29e7-404b-bd8a-e9d9d43cad46)
 ![1000249492](https://github.com/user-attachments/assets/0f200659-76af-4913-81bd-74dda27de669)
+Download the Papirus icon theme(Manjaro Default):
 ![1000249493](https://github.com/user-attachments/assets/abca3e8b-db7d-44b2-8568-104f4cd43882)
 ![1000249494](https://github.com/user-attachments/assets/c928dd9a-912f-4d0b-8aad-d4e65c58e63e)
 ![1000249495](https://github.com/user-attachments/assets/537ba7e9-dd47-454b-b7a1-4462f56dc791)
