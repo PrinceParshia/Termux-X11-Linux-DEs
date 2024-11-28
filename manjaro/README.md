@@ -1,6 +1,3 @@
-Found a shorter way will get update soon!
-Not finished yet
-
 ## MANJARO XFCE
 ![Screenshot_2024-11-21_08-03-21](https://github.com/user-attachments/assets/762326c2-71d5-4dd9-9a12-a056a02fcd66)
 
@@ -117,7 +114,19 @@ tar -xf papirus-icon-theme-teal-folders.tar.xz
 ```
 rm papirus-icon-theme-teal-folders.tar.xz
 ```
-
+![1000249517](https://github.com/user-attachments/assets/ca0cfc27-1fad-489b-9823-3308e482dd7d)
+![1000249518](https://github.com/user-attachments/assets/73020513-db32-4d0e-bc2d-79edb8407aca)
+Turn on the option and select the Matcha sea theme version you like most:
+![1000249519](https://github.com/user-attachments/assets/2792f84e-bca5-40ec-89f8-a962d865a769)
+Select the Papirus icon theme:
+![1000249520](https://github.com/user-attachments/assets/9980070e-39b2-41fc-a131-8f3abc2e8134)
+![1000249521](https://github.com/user-attachments/assets/ab27200a-2aac-4cc1-a15b-e41d4baf3f50)
+![1000249522](https://github.com/user-attachments/assets/a9d93403-336f-40ff-8b9a-019470f564d1)
+![1000249523](https://github.com/user-attachments/assets/ba2ae40f-d187-4ac0-a06f-3a328d77dd2b)
+![1000249524](https://github.com/user-attachments/assets/e79ba141-2097-4948-b1f4-04b08901b8c7)
+![1000249525](https://github.com/user-attachments/assets/ed17341b-c303-477d-97b4-5acae28ecd93)
+![1000249526](https://github.com/user-attachments/assets/0a623546-dc76-4ea3-81a2-a7a94ae83042)
+Your all done! Now you can start working here
 
 ---
 ## TOOLTIP
