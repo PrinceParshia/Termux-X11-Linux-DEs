@@ -131,7 +131,7 @@ Select the Papirus icon theme:
 ![1000249524](https://github.com/user-attachments/assets/e79ba141-2097-4948-b1f4-04b08901b8c7)
 ![1000249525](https://github.com/user-attachments/assets/ed17341b-c303-477d-97b4-5acae28ecd93)
 ![1000249526](https://github.com/user-attachments/assets/0a623546-dc76-4ea3-81a2-a7a94ae83042)
-Your all done! Now you can start working here
+Your all done!
 
 ---
 ## TOOLTIP
