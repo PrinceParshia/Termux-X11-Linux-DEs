@@ -1,5 +1,5 @@
 ## REQUIREMENTS
-* [Termux](https://github.com/termux/termux-app/releases) and [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly) installed.
+* [Termux](https://github.com/termux/termux-app/releases) and a debug app [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly)/Real VNC Viewer installed.
 * At least 6GB ram Android device (For better experience).
 * 10GB+ empty storage space.
 ---
