@@ -78,8 +78,10 @@ cd /usr/share/icons/
 ```
 git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
 ```
+<details>
+<summary>TERMUX X11 DEBUG</summary>
+  
 Execute ```exit``` until you appear in Termux Shell.
-
 Download the Manjaro Startup file:
 ```
 wget https://raw.githubusercontent.com/Anemosfy/Linux-XFCE-Android/refs/heads/main/manjaro/manjaro-xfce.sh
@@ -95,6 +97,30 @@ Start Manjaro desktop with:
 ```
 ./manjaro-xfce.sh
 ```
+
+</details>
+<details>
+<summary>VNC DEBUG</summary>
+Need to verify dont use now!!
+Make sure your in Manjaro Shell and execute this command:
+```
+sudo pacman -S tigervnc
+```
+Set a password for the vnc connection:
+```
+vncpasswd
+```
+Start vncserver:
+```
+vncserver
+```
+Open Your VNC viewer app and connect the screen with ip:
+```
+localhost:1
+```
+  
+</details>
+
 After Manjaro is launched:
 If your using Chromium do this step:
 ![1000249491](https://github.com/user-attachments/assets/51a29c74-29e7-404b-bd8a-e9d9d43cad46)
