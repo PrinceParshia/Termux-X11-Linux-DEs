@@ -132,10 +132,6 @@ chmod +x manjaro-xfce-vnc.sh
 ```
 ./manjaro-xfce-vnc.sh
 ```
-To stop vnc in manjaro shell:
-```
-vncserver -kill :1
-```
 </details>
 
 After Manjaro is launched:
