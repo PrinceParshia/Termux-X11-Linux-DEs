@@ -22,3 +22,7 @@ In Ubuntu Shell update its packages:
 ```
 apt update && apt upgrade
 ```
+Install Ubuntu Desktop Environment and other packages:
+```
+apt install ubuntu-desktop sudo
+```
