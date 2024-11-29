@@ -1,5 +1,5 @@
 ## REQUIREMENTS
-* [Termux](https://github.com/termux/termux-app/releases) and a debug app [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly)/Real VNC Viewer installed.
+* [Termux](https://github.com/termux/termux-app/releases) and a debug app [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly)/[Real VNC](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Drealvnc+viewer&pcampaignid=APPU_1_soxJZ8HhIOHb4-EP7Zq-uAE&pli=1) Viewer installed.
 * At least 6GB ram Android device (For better experience).
 * 10GB+ empty storage space.
 ---
