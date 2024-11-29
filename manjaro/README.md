@@ -176,9 +176,9 @@ Your all done!
   vncserver :1
   ```
 * Close X11 connection using the exit button on the notifications bar. And vnc connection using (in manjaro shell):
- ```
- vncserver -kill :1
- ```
+  ```
+  vncserver -kill :1 
+  ```
 * Open Manjaro Shell in Termux using:
   ```
   proot-distro login manjaro
