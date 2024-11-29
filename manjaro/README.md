@@ -117,11 +117,22 @@ echo "#!/bin/bash" > ~/.vnc/xstartup
 echo "startxfce4 &" >> ~/.vnc/xstartup
 chmod +x ~/.vnc/xstartup
 ```
-To run vnc:
+To run vnc In Termux Shell:
 ```
-vncserver :1
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-xfce-vnc.sh
 ```
-To stop vnc:
+Change ```<username>``` line 6 to your created user:
+```
+nano manjaro-xfce-vnc.sh
+```
+CTRL - X - Y - ENTER
+```
+chmod +x manjaro-xfce-vnc.sh
+```
+```
+./manjaro-xfce-vnc.sh
+```
+To stop vnc in manjaro shell:
 ```
 vncserver -kill :1
 ```
