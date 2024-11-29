@@ -102,7 +102,6 @@ Start Manjaro desktop with:
 <details>
 <summary>VNC DEBUG</summary>
 
-Need to verify dont use now!!
 Make sure your in Manjaro Shell and execute this command:
 ```
 sudo pacman -S tigervnc
@@ -113,13 +112,19 @@ vncpasswd
 ```
 Start vncserver:
 ```
-vncserver
+mkdir -p ~/.vnc
+echo "#!/bin/bash" > ~/.vnc/xstartup
+echo "startxfce4 &" >> ~/.vnc/xstartup
+chmod +x ~/.vnc/xstartup
 ```
-Open Your VNC viewer app and connect the screen with ip:
+To run vnc:
 ```
-localhost:1
+vncserver :1
 ```
----
+To stop vnc:
+```
+vncserver -kill :1
+```
 </details>
 
 After Manjaro is launched:
@@ -162,11 +167,18 @@ Your all done!
 
 ---
 ## TOOLTIP
-* Start Manjaro Desktop using (In Termux Shell):
+* Start X11 connection using (In Termux Shell):
   ```
   ./manjaro-xfce.sh
   ```
-* Close Manjaro Desktop using the exit button on the notifications bar
+  And vnc connection using (In manjaro shell):
+  ```
+  vncserver :1
+  ```
+* Close X11 connection using the exit button on the notifications bar. And vnc connection using (in manjaro shell):
+ ```
+ vncserver -kill :1
+ ```
 * Open Manjaro Shell in Termux using:
   ```
   proot-distro login manjaro
