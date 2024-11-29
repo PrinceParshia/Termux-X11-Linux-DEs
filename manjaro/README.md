@@ -132,6 +132,7 @@ chmod +x manjaro-xfce-vnc.sh
 ```
 ./manjaro-xfce-vnc.sh
 ```
+Open RealVNC Viewer and connect to the screen with the ip localhost:1.
 </details>
 
 After Manjaro is launched:
@@ -178,9 +179,9 @@ Your all done!
   ```
   ./manjaro-xfce.sh
   ```
-  And vnc connection using (In manjaro shell):
+  And vnc connection using (In Termux Shell):
   ```
-  vncserver :1
+  ./manjaro-xfce-vnc.sh
   ```
 * Close X11 connection using the exit button on the notifications bar. And vnc connection using (in manjaro shell):
   ```
