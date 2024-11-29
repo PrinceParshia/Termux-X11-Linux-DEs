@@ -87,7 +87,7 @@ wget https://raw.githubusercontent.com/Anemosfy/Linux-XFCE-Android/refs/heads/ma
 ```
 nano manjaro-xfce.sh
 ```
-Scroll to line 20 and change ```<username>``` to your username you created in Manjaro Shell. CTRL - X - Y - ENTER.
+Scroll to line 10 and change ```<username>``` to your username you created in Manjaro Shell. CTRL - X - Y - ENTER.
 ```
 chmod +x manjaro-xfce.sh
 ```
