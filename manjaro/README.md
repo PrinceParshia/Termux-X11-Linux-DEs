@@ -101,6 +101,7 @@ Start Manjaro desktop with:
 </details>
 <details>
 <summary>VNC DEBUG</summary>
+
 Need to verify dont use now!!
 Make sure your in Manjaro Shell and execute this command:
 ```
@@ -118,7 +119,7 @@ Open Your VNC viewer app and connect the screen with ip:
 ```
 localhost:1
 ```
-  
+---
 </details>
 
 After Manjaro is launched:
