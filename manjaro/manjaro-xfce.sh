@@ -1,7 +1,3 @@
-# All Credit Of This File Goes To LinuxDoridMaster.
-# This File Is Taken From (https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/scripts/proot_arch/startxfce4_arch.sh)
-# Modified To Run Manjaro
-
 #!/data/data/com.termux/files/usr/bin/bash
 
 kill -9 $(pgrep -f "termux.x11") 2>/dev/null
