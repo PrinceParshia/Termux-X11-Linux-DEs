@@ -153,7 +153,7 @@ Change the theme:
 ![1000249518](https://github.com/user-attachments/assets/73020513-db32-4d0e-bc2d-79edb8407aca)
 Turn on the option and select the Matcha sea theme version you like most:
 ![1000249519](https://github.com/user-attachments/assets/2792f84e-bca5-40ec-89f8-a962d865a769)
-Select the Papirus icon theme:
+Select the Papirus Maia icon theme:
 ![1000249520](https://github.com/user-attachments/assets/9980070e-39b2-41fc-a131-8f3abc2e8134)
 ![1000249521](https://github.com/user-attachments/assets/ab27200a-2aac-4cc1-a15b-e41d4baf3f50)
 ![1000249522](https://github.com/user-attachments/assets/a9d93403-336f-40ff-8b9a-019470f564d1)
