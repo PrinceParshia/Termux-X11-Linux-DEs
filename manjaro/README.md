@@ -32,9 +32,9 @@ SigLevel = Never
 ```
 To save and exit press CTRL - X - Y - ENTER.
 
-Install xfce4 and additional packages:
+Install xfce4 and additional manjaro packages:
 ```
-pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole sudo git matcha-gtk-theme
+pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole sudo git matcha-gtk-theme papirus-maia-icon-theme
 ```
 Install a browser to access internet:
 ```
@@ -142,26 +142,7 @@ After Manjaro is launched:
 If your using Chromium do this step:
 ![1000249491](https://github.com/user-attachments/assets/51a29c74-29e7-404b-bd8a-e9d9d43cad46)
 ![1000249492](https://github.com/user-attachments/assets/0f200659-76af-4913-81bd-74dda27de669)
-Download the Papirus icon theme(Manjaro Default):
-![1000249493](https://github.com/user-attachments/assets/abca3e8b-db7d-44b2-8568-104f4cd43882)
-![1000249494](https://github.com/user-attachments/assets/c928dd9a-912f-4d0b-8aad-d4e65c58e63e)
-![1000249495](https://github.com/user-attachments/assets/537ba7e9-dd47-454b-b7a1-4462f56dc791)
-![1000249496](https://github.com/user-attachments/assets/c83d69a8-ee2f-448c-806b-81bd4455ca18)
-![1000249497](https://github.com/user-attachments/assets/21afd831-3380-4216-828f-6a927f77517c)
-![1000249498](https://github.com/user-attachments/assets/5e0120b3-06d9-439f-896c-3848a2276215)
-Execute the commands in terminal:
-```
-cd /usr/share/icons/
-```
-```
-mv /home/<username>/Downloads/papirus-icon-theme-teal-folders.tar.xz /usr/share/icons/
-```
-```
-tar -xf papirus-icon-theme-teal-folders.tar.xz
-```
-```
-rm papirus-icon-theme-teal-folders.tar.xz
-```
+Change the theme:
 ![1000249517](https://github.com/user-attachments/assets/ca0cfc27-1fad-489b-9823-3308e482dd7d)
 ![1000249518](https://github.com/user-attachments/assets/73020513-db32-4d0e-bc2d-79edb8407aca)
 Turn on the option and select the Matcha sea theme version you like most:
