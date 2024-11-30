@@ -132,7 +132,10 @@ chmod +x manjaro-xfce-vnc.sh
 ```
 ./manjaro-xfce-vnc.sh
 ```
-Open RealVNC Viewer and connect to the screen with the ip localhost:1.
+Open RealVNC Viewer and connect to the screen with the ip 
+```
+localhost:1
+```
 </details>
 
 After Manjaro is launched:
