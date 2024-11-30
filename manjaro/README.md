@@ -70,7 +70,13 @@ Install Manjaro default xfce settings:
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
 ```
-mv manjaro-xfce-settings/skel/* /home/<username>/
+mv manjaro-xfce-settings/skel/.config /home/<username>/
+```
+```
+mv manjaro-xfce-settings/skel/.profile /home/<username>/
+```
+```
+mv manjaro-xfce-settings/skel/.xinitrc /home/<username>/
 ```
 ```
 cd /usr/share/icons/
