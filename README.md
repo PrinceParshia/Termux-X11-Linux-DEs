@@ -10,7 +10,7 @@
 
 | ARCH | DETAILS |
 |---------|---------|
-| <a href="/manjaro/README.md"><img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Icon" width="125"></a> | Arch Linux is a free, open-source operating system that is designed to be lightweight, flexible, and highly customizable.
+| <a href="/arch/README.md"><img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Icon" width="125"></a> | Arch Linux is a free, open-source operating system that is designed to be lightweight, flexible, and highly customizable.
 
 | UBUNTU | DETAILS |
 |---------|---------|
