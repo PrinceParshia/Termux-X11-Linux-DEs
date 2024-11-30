@@ -8,6 +8,10 @@
 |---------|---------|
 | <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="125"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible.
 
+| ARCH | DETAILS |
+|---------|---------|
+| <a href="/manjaro/README.md"><img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Icon" width="125"></a> | Arch Linux is a free, open-source operating system that is designed to be lightweight, flexible, and highly customizable.
+
 | UBUNTU | DETAILS |
 |---------|---------|
 | <a href="/ubuntu/README.md"><img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Xubuntu Icon" width="125"></a> | Ubuntu is a free, open-source Linux OS based on Debian, known for its simplicity, stability, and wide user support.
