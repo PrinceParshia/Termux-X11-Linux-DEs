@@ -53,7 +53,7 @@ To save and exit press CTRL - X - Y - ENTER.
 
 Arch linux dont have their own/default xfce theme. So i suggest a theme to use instead of the default xfce theme(optional):
 ```
-pacman -S matcha-gtk-theme papirus-icon-theme noto-fonts
+pacman -S arc-gtk-theme papirus-icon-theme noto-fonts
 ```
 <details>
 <summary>TERMUX X11 DEBUG</summary>
