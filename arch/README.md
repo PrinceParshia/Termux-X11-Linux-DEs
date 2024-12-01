@@ -24,7 +24,7 @@ pacman -Syu
 ```
 Install xfce4 and additional packages:
 ```
-pacman -S xfce4 xfce4-goodies tumbler engrampa ristretto parole sudo
+pacman -S xfce4 xfce4-goodies tumbler engrampa ristretto parole sudo mugshot
 ```
 Install a browser to access internet:
 ```
