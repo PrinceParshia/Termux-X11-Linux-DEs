@@ -84,6 +84,9 @@ cd /usr/share/icons/
 ```
 git clone https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons.git
 ```
+```
+curl -L -o /usr/share/icons/whiskermenu-manjaro.svg "https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/maia/maia.svg?ref_type=heads"
+```
 <details>
 <summary>TERMUX X11 DEBUG</summary>
   
@@ -148,19 +151,6 @@ After Manjaro is launched:
 If your using Chromium do this step:
 ![1000249491](https://github.com/user-attachments/assets/51a29c74-29e7-404b-bd8a-e9d9d43cad46)
 ![1000249492](https://github.com/user-attachments/assets/0f200659-76af-4913-81bd-74dda27de669)
-Change the theme:
-![1000249517](https://github.com/user-attachments/assets/ca0cfc27-1fad-489b-9823-3308e482dd7d)
-![1000249518](https://github.com/user-attachments/assets/73020513-db32-4d0e-bc2d-79edb8407aca)
-Turn on the option and select the Matcha sea theme version you like most:
-![1000249519](https://github.com/user-attachments/assets/2792f84e-bca5-40ec-89f8-a962d865a769)
-Select the Papirus Maia icon theme:
-![1000249520](https://github.com/user-attachments/assets/9980070e-39b2-41fc-a131-8f3abc2e8134)
-![1000249521](https://github.com/user-attachments/assets/ab27200a-2aac-4cc1-a15b-e41d4baf3f50)
-![1000249522](https://github.com/user-attachments/assets/a9d93403-336f-40ff-8b9a-019470f564d1)
-![1000249523](https://github.com/user-attachments/assets/ba2ae40f-d187-4ac0-a06f-3a328d77dd2b)
-![1000249524](https://github.com/user-attachments/assets/e79ba141-2097-4948-b1f4-04b08901b8c7)
-![1000249525](https://github.com/user-attachments/assets/ed17341b-c303-477d-97b4-5acae28ecd93)
-![1000249526](https://github.com/user-attachments/assets/0a623546-dc76-4ea3-81a2-a7a94ae83042)
 Your all done!
 
 ---
