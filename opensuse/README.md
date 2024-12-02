@@ -33,3 +33,66 @@ zypper install chomium
 ```
 zypper install firefox
 ```
+Create an user to access the desktop:
+```
+useradd -m <username>
+```
+<details>
+<summary>TERMUX X11 DEBUG</summary>
+  
+Execute ```exit``` until you appear in Termux Shell.
+Download the openSUSE Startup file:
+```
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/opensuse/opensuse-xfce.sh
+```
+```
+nano opensuse-xfce.sh
+```
+Scroll to line 10 and change ```<username>``` to your username you created in openSUSE Shell. CTRL - X - Y - ENTER.
+```
+chmod +x opensuse-xfce.sh
+```
+Start openSUSE desktop with: 
+```
+./opensuse-xfce.sh
+```
+
+</details>
+<details>
+<summary>VNC DEBUG</summary>
+
+Make sure your in openSUSE Shell and execute this command:
+```
+zypper install tigervnc
+```
+Set a password for the vnc connection:
+```
+vncpasswd
+```
+Start vncserver:
+```
+mkdir -p ~/.vnc
+echo "#!/bin/bash" > ~/.vnc/xstartup
+echo "startxfce4 &" >> ~/.vnc/xstartup
+chmod +x ~/.vnc/xstartup
+```
+To run vnc In Termux Shell:
+```
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/opensuse/opensuse-xfce-vnc.sh
+```
+Change ```<username>``` line 6 to your created user:
+```
+nano opensuse-xfce-vnc.sh
+```
+CTRL - X - Y - ENTER
+```
+chmod +x opensuse-xfce-vnc.sh
+```
+```
+./opensuse-xfce-vnc.sh
+```
+Open RealVNC Viewer and connect to the screen with the ip 
+```
+localhost:1
+```
+</details>
