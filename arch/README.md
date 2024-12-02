@@ -1,5 +1,3 @@
-# NOT FINISHED
-
 ## ARCH XFCE
 ---
 #### NOTE
