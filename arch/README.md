@@ -55,15 +55,7 @@ Arch linux dont have their own/default xfce theme. So i suggest a theme to use i
 ```
 pacman -S arc-gtk-theme papirus-icon-theme noto-fonts
 ```
-```
-su - <username>
-```
-```
 
-```
-```
-curl -L -o /usr/share/icons/whiskermenu-archlinux.png https://raw.githubusercontent.com/Anemosfy/archlinux-xfce-settings/refs/heads/main/whiskermenu-archlinux.png
-```
 <details>
 <summary>TERMUX X11 DEBUG</summary>
   
