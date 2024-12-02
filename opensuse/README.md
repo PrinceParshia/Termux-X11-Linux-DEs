@@ -28,7 +28,7 @@ zypper install sudo tumbler engrampa ristretto parole
 ```
 Install a browser to access internet:
 ```
-zypper install chomium
+zypper install chromium
 ```
 ```
 zypper install firefox
