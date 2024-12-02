@@ -15,7 +15,7 @@
 # NOT FINISHED 
 | OPENSUSE | DETAILS |
 |------|---------|
-| <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/4/44/Button-filled-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
+| <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
 | UBUNTU | DETAILS |
 |--------|---------|
