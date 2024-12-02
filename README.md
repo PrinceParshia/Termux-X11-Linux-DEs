@@ -1,3 +1,6 @@
+## Termux-X11-Linux-DEs
+This repository tries to give almost all the popular linux distributions to run in android with maximum performance and maximum customization.
+
 ## REQUIREMENTS
 * [Termux](https://github.com/termux/termux-app/releases) and a debug app [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly)/[Real VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Drealvnc+viewer&pcampaignid=APPU_1_soxJZ8HhIOHb4-EP7Zq-uAE&pli=1) installed.
 * At least 6GB ram Android device (For better experience).
