@@ -24,5 +24,5 @@ zypper update
 Install xfce and other packages:
 ```
 zypper install patterns-openSUSE-xfce
-zypper install xfce4 xfce4-goodies
+zypper install xfce4 xfce4-goodies sudo tumbler engrampa ristretto parole 
 ```
