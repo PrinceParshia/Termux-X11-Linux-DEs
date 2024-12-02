@@ -115,6 +115,7 @@ Open RealVNC Viewer and connect to the screen with the ip
 localhost:1
 ```
 </details>
+After Arch is launched:
 
 ![1000250096](https://github.com/user-attachments/assets/e88fe330-0af6-412c-ba68-275ff52dea98)
 ![1000250097](https://github.com/user-attachments/assets/24d97713-01ad-4ef6-b661-a5d3e2881601)
@@ -128,3 +129,4 @@ localhost:1
 ![1000250105](https://github.com/user-attachments/assets/0abf0cc3-e0d3-4052-bad2-53f4ca4809aa)
 ![1000250106](https://github.com/user-attachments/assets/ba87356f-6ed9-4db0-868d-8aeffdd5b84d)
 ![1000250107](https://github.com/user-attachments/assets/5318ff5f-3def-4543-a9d0-e1a3dd98b010)
+Your all done!
