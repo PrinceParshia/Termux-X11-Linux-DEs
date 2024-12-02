@@ -115,6 +115,7 @@ Open RealVNC Viewer and connect to the screen with the ip
 localhost:1
 ```
 </details>
+
 ![1000250096](https://github.com/user-attachments/assets/e88fe330-0af6-412c-ba68-275ff52dea98)
 ![1000250097](https://github.com/user-attachments/assets/24d97713-01ad-4ef6-b661-a5d3e2881601)
 ![1000250098](https://github.com/user-attachments/assets/6ca08950-f29e-4a1a-97ab-0df6009d61ba)
