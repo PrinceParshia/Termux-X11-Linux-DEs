@@ -15,11 +15,11 @@ This repository tries to give almost all the popular linux distributions to run 
 |------|---------|
 | <a href="/arch/README.md"><img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Icon" width="125"></a> | Arch Linux is a free, open-source operating system that is designed to be lightweight, flexible, and highly customizable.
 
-# NOT FINISHED 
 | OPENSUSE | DETAILS |
 |------|---------|
 | <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
+# NOT FINISHED  
 | UBUNTU | DETAILS |
 |--------|---------|
 | <a href="/ubuntu/README.md"><img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Xubuntu Icon" width="125"></a> | Ubuntu is a free, open-source Linux OS based on Debian, known for its simplicity, stability, and wide user support.
