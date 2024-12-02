@@ -19,6 +19,10 @@ This repository tries to give almost all the popular linux distributions to run 
 |------|---------|
 | <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
+| FEDORA | DETAILS |
+|------|---------|
+| <a href="/fedora/README.md"><img src="https://gitlab.com/uploads/-/system/project/avatar/37860711/fedora-icon.png" alt="Fedora Icon" width="125"></a> | Fedora is a free, open-source Red Hat Linux based operating system, known for its user-friendliness, and strong security.
+
 # NOT FINISHED  
 | UBUNTU | DETAILS |
 |--------|---------|
