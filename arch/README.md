@@ -127,4 +127,4 @@ localhost:1
 ![1000250104](https://github.com/user-attachments/assets/05767a10-9287-4ca7-bcb6-f955df0ec255)
 ![1000250105](https://github.com/user-attachments/assets/0abf0cc3-e0d3-4052-bad2-53f4ca4809aa)
 ![1000250106](https://github.com/user-attachments/assets/ba87356f-6ed9-4db0-868d-8aeffdd5b84d)
-![Uploading 1000250107.png…]()
+![1000250107](https://github.com/user-attachments/assets/5318ff5f-3def-4543-a9d0-e1a3dd98b010)
