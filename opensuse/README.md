@@ -23,6 +23,6 @@ zypper update
 ```
 Install xfce and other packages:
 ```
-zypper install patterns-openSUSE-xfce
+zypper install xfce4-panel xfce4-session xfce4-settings xfce4-appfinder xfce4-terminal xfce4-taskmanager xfce4-notifyd xfce4-power-manager xfce4-screenshooter xfce4-clipman-plugin xfce4-weather-plugin xfce4-battery-plugin xfce4-places-plugin xfce4-diskperf-plugin xfce4-fsguard-plugin xfce4-genmon-plugin xfce4-mailwatch-plugin xfce4-netload-plugin xfce4-pulseaudio-plugin xfce4-sensors-plugin xfce4-timer-plugin xfce4-wavelan-plugin xfce4-mount-plugin patterns-openSUSE-xfce
 zypper install sudo tumbler engrampa ristretto parole 
 ```
