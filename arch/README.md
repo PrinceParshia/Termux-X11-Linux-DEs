@@ -128,3 +128,26 @@ After Arch is launched:
 ![1000250106](https://github.com/user-attachments/assets/ba87356f-6ed9-4db0-868d-8aeffdd5b84d)
 ![1000250107](https://github.com/user-attachments/assets/5318ff5f-3def-4543-a9d0-e1a3dd98b010)
 Your all done!
+
+---
+## TOOLTIP
+* Start X11 connection using (In Termux Shell):
+  ```
+  ./arch-xfce.sh
+  ```
+  And vnc connection using (In Termux Shell):
+  ```
+  ./arch-xfce-vnc.sh
+  ```
+* Close X11 connection using the exit button on the notifications bar. And vnc connection using (in arch shell):
+  ```
+  vncserver -kill :1 
+  ```
+* Open Arch Shell in Termux using:
+  ```
+  proot-distro login archlinux
+  ```
+  And with a specific user:
+  ```
+  proot-distro login archlinux --user <username>
+  ```
