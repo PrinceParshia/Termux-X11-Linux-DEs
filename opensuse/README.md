@@ -96,3 +96,25 @@ Open RealVNC Viewer and connect to the screen with the ip
 localhost:1
 ```
 </details>
+
+## TOOLTIP
+* Start X11 connection using (In Termux Shell):
+  ```
+  ./opensuse-xfce.sh
+  ```
+  And vnc connection using (In Termux Shell):
+  ```
+  ./opensuse-xfce-vnc.sh
+  ```
+* Close X11 connection using the exit button on the notifications bar. And vnc connection using (in openSUSE shell):
+  ```
+  vncserver -kill :1 
+  ```
+* Open openSUSE Shell in Termux using:
+  ```
+  proot-distro login opensuse
+  ```
+  And with a specific user:
+  ```
+  proot-distro login opensuse --user <username>
+  ```
