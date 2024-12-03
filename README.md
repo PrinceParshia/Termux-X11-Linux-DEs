@@ -22,7 +22,7 @@ This repository tries to give almost all the popular linux distributions to run 
 # NOT FINISHED 
 | DEBIAN | DETAILS |
 |------|---------|
-| <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="125"></a> | 
+| <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="125"></a> | Debian is a free, open-source Linux-based operating system known for its stability, reliability, and extensive software support.
 
 | FEDORA | DETAILS |
 |------|---------|
