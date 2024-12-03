@@ -34,7 +34,7 @@ To save and exit press CTRL - X - Y - ENTER.
 
 Install xfce4 and additional manjaro packages:
 ```
-pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole sudo git matcha-gtk-theme papirus-maia-icon-theme noto-fonts
+pacman -S xfce4 xfce4-goodies pamac tumbler engrampa ristretto parole sudo git matcha-gtk-theme papirus-maia-icon-theme noto-fonts manjaro-release manjaro-system manjaro-settings-manager manjaro-hotfixes manjaro-arm-tools manjaro-arm-wallpapers manjaro-base-skel manjaro-icons
 ```
 Install a browser to access internet:
 ```
@@ -77,9 +77,6 @@ mv manjaro-xfce-settings/skel/.profile /home/<username>/
 ```
 ```
 mv manjaro-xfce-settings/skel/.xinitrc /home/<username>/
-```
-```
-pamac install manjaro-icons
 ```
 ```
 cd /usr/share/icons/
