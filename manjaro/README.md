@@ -79,9 +79,6 @@ mv manjaro-xfce-settings/skel/.profile /home/<username>/
 mv manjaro-xfce-settings/skel/.xinitrc /home/<username>/
 ```
 ```
-cd /usr/share/icons/
-```
-```
 curl -L -o /usr/share/icons/whiskermenu-manjaro.svg "https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/maia/maia.svg?ref_type=heads"
 ```
 <details>
