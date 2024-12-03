@@ -144,6 +144,7 @@ localhost:1
 After Manjaro is launched:
 If your using Chromium do this step:
 ![1000250129](https://github.com/user-attachments/assets/8757c37f-29e1-4b15-ae92-16d223ec1f0a)
+Add the ```--no-sandbox``` flag:
 ![1000250130](https://github.com/user-attachments/assets/ff534791-446d-49b9-bb98-ae534457b2d9)
 Your all done!
 
