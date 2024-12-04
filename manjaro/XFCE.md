@@ -39,4 +39,5 @@ pacman -S xfce4 xfce4-goodies pamac manjaro-release manjaro-system manjaro-setti
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
 ```
-mv manjaro-xfce-settings/skel
+mv manjaro-xfce-settings/skel/. /etc/skel/
+```
