@@ -41,3 +41,6 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 mv manjaro-xfce-settings/skel/. /etc/skel/
 ```
+```
+ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
+```
