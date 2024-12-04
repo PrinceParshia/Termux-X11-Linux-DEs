@@ -55,7 +55,7 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
 ```
-mv manjaro-xfce-settings/skel/. /home/<username>/
+cp -r manjaro-xfce-settings/skel/. /home/<username>/
 ```
 ```
 ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
