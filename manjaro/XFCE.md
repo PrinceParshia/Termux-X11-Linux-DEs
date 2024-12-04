@@ -31,7 +31,12 @@ SigLevel = Never
 ```
 Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 <br>
-Install xfce4 and other additional required packages:
+Install xfce4 and other required packages:
 ```
 pacman -S xfce4 xfce4-goodies pamac manjaro-release manjaro-system manjaro-settings-manager manjaro-hotfixes manjaro-arm-tools manjaro-base-skel manjaro-icons matcha-gtk-theme papirus-maia-icon-theme noto-fonts xcursor-breeze xcursor-maia sudo git
 ```
+```
+git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
+```
+```
+mv manjaro-xfce-settings/skel
