@@ -56,3 +56,18 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 <username> ALL=(ALL:ALL) ALL
 ```
+Execute ```exit``` until you appear in Termux Shell:
+```
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-xfce.sh
+```
+```
+nano manjaro-xfce.sh
+```
+Scroll to line 10 and change ```<username>``` to the user you created. Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
+```
+chmod +x manjaro-xfce.sh
+```
+To run the desktop:
+```
+./manjaro-xfce.sh
+```
