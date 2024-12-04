@@ -39,7 +39,7 @@ pacman -S xfce4 xfce4-goodies pamac manjaro-release manjaro-system manjaro-setti
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
 ```
-mv manjaro-xfce-settings/skel/. /etc/skel/
+cp -r manjaro-xfce-settings/skel/. /etc/skel/
 ```
 ```
 ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
