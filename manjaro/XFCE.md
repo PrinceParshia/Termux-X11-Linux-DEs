@@ -35,18 +35,13 @@ Install xfce4 and other required packages:
 ```
 pacman -S xfce4 xfce4-goodies pamac manjaro-release manjaro-system manjaro-settings-manager manjaro-hotfixes manjaro-arm-tools manjaro-base-skel manjaro-icons matcha-gtk-theme papirus-maia-icon-theme noto-fonts xcursor-breeze xcursor-maia qt5ct sudo git
 ```
-```
-git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
-```
-```
-cp -r manjaro-xfce-settings/skel/. /etc/skel/
-```
-```
-ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
-```
 Create an user to access the desktop:
 ```
 useradd -m <username>
+```
+Set a password for your user:
+```
+passwd <username>
 ```
 Give sudo access to the user:
 ```
@@ -55,6 +50,15 @@ nano /etc/sudoers
 Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 <username> ALL=(ALL:ALL) ALL
+```
+```
+git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
+```
+```
+mv manjaro-xfce-settings/skel/. /home/<username>/
+```
+```
+ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
 ```
 Execute ```exit``` until you appear in Termux Shell:
 ```
