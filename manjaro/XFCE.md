@@ -79,3 +79,19 @@ If you use chromium do this step after Manjaro is launched:
 ![1000250180](https://github.com/user-attachments/assets/c7ac6202-3e9e-43cf-a8c9-d5d9d6786ec7)
 Add the ```--no-sandbox``` flag:
 ![1000250181](https://github.com/user-attachments/assets/38ad3a82-ac3e-4824-8f13-66c460d0239d)
+
+---
+## TIPS
+* Start Manjaro desktop using (in Termux Shell):
+```
+./manjaro-xfce.sh
+```
+Exit Termux fully from the notification bar to stop the desktop.
+* To login to manjaro shell in termux:
+```
+proot-distro login manjaro
+```
+With a specific user:
+```
+proot-distro login manjaro --user <username>
+```
