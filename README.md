@@ -7,9 +7,6 @@ This repository tries to give almost all the popular linux distributions to run 
 * 10GB+ empty storage space.
 ---
 ## DISTROS
-| MANJARO | DETAILS |
-|---------|---------|
-| <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="125"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible.
 
 | ARCH | DETAILS |
 |------|---------|
@@ -20,6 +17,10 @@ This repository tries to give almost all the popular linux distributions to run 
 | <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
 # NOT FINISHED 
+| MANJARO | DETAILS |
+|---------|---------|
+| <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="125"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible.
+
 | DEBIAN | DETAILS |
 |------|---------|
 | <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="125"></a> | Debian is a free, open-source Linux-based operating system known for its stability, reliability, and extensive software support.
