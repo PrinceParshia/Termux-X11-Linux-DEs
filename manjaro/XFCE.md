@@ -44,3 +44,15 @@ mv manjaro-xfce-settings/skel/. /etc/skel/
 ```
 ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
 ```
+Create an user to access the desktop:
+```
+useradd -m <username>
+```
+Give sudo access to the user:
+```
+nano /etc/sudoers
+```
+Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
+```
+<username> ALL=(ALL:ALL) ALL
+```
