@@ -51,6 +51,7 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 <username> ALL=(ALL:ALL) ALL
 ```
+Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 ```
 git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
