@@ -4,7 +4,7 @@
 ---
 #### NOTE
 * ~ $ is Termux Shell.
-* bash-*.*# is Void Shell.
+* bash-5.2# is Void Shell.
 ---
 ## MAIN STEPS
 Open Termux, install required packages:
