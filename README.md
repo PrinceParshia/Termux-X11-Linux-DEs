@@ -26,6 +26,10 @@ This repository tries to give almost all the popular linux distributions to run 
 
 # NOT FINISHED 
 
+| VOID | DETAILS |
+|------|---------|
+| <a href="/void/README.md"><img src="https://voidlinux.org/assets/img/void_bg.png" alt="Void Icon" width="125"></a> | Void Linux is a free, open-source system focused on simplicity and efficiency. It uses the lightweight runit init system and a rolling release model.
+
 | FEDORA | DETAILS |
 |--------|---------|
 | <a href="/fedora/README.md"><img src="https://gitlab.com/uploads/-/system/project/avatar/37860711/fedora-icon.png" alt="Fedora Icon" width="125"></a> | Fedora is a free, open-source Red Hat Linux based operating system, known for its user-friendliness, and strong security.
