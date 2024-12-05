@@ -36,3 +36,20 @@ xbps-install -S chromium
 ```
 xbps-install -S firefox
 ```
+Create an user to access the desktop:
+```
+useradd -m <username>
+```
+Set a password for your user:
+```
+passwd <username>
+```
+Give sudo access to the user:
+```
+nano /etc/sudoers
+```
+Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
+```
+<username> ALL=(ALL:ALL) ALL
+```
+Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
