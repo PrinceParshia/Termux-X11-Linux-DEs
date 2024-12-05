@@ -83,7 +83,7 @@ Add the ```--no-sandbox``` flag:
 ## TIPS
 * Start Manjaro desktop using (in Termux Shell):
 ```
-./manjaro-xfce.sh
+./manjaro-cinnamon.sh
 ```
 Exit Termux fully from the notification bar to stop the desktop.
 * To login to manjaro shell in termux:
