@@ -31,8 +31,8 @@ xbps-install -S xfce4 sudo
 ```
 Install a browser to access internet:
 ```
-xbox-install -S chromium
+xbps-install -S chromium
 ```
 ```
-xbox-install -S firefox
+xbps-install -S firefox
 ```
