@@ -20,5 +20,8 @@ proot-distro login void
 ```
 Update Void packages:
 ```
+xbps-install -u xbps
+```
+```
 xbps-install -Su
 ```
