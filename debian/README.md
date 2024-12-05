@@ -1,6 +1,6 @@
-# NOT FINISHED
-
 ## DEBIAN XFCE
+![1000250196](https://github.com/user-attachments/assets/37af313b-d320-4c2d-b90c-47d019a081f6)
+
 ---
 #### NOTE
 * ~ $ is Termux Shell.
