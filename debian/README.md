@@ -42,7 +42,7 @@ Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 <br>
 Execute ```exit``` until you reach in Termux Shell:
 ```
-git clone https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/debian/debain-xfce.sh
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/debian/debain-xfce.sh
 ```
 ```
 nano debian-xfce.sh
