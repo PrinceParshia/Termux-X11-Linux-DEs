@@ -58,9 +58,6 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 cp -r manjaro-xfce-settings/skel/. /home/<username>/
 ```
-```
-ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
-```
 Execute ```exit``` until you appear in Termux Shell:
 ```
 wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-xfce.sh
