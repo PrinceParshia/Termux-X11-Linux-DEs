@@ -62,6 +62,14 @@ To run the desktop:
 ```
 ./debian-xfce.sh
 ```
+After debian is launched: If you use chromium do this step:
+![1000250189](https://github.com/user-attachments/assets/b09b86a1-0acf-4ffb-8a4a-6c770a6c9d09)
+![1000250190](https://github.com/user-attachments/assets/17213aee-2c41-42a8-b632-9f6c0d9cbc02)
+![1000250191](https://github.com/user-attachments/assets/1f3b80c3-09dd-4913-bca1-07f17f44ea97)
+![1000250192](https://github.com/user-attachments/assets/3e1df06b-63dc-4492-9c1a-ec749f668fbf)
+Add the ```--no-sandbox``` flag:
+![1000250193](https://github.com/user-attachments/assets/d0fcebf3-8c5d-4506-b44b-900e3c22d875)
+![1000250194](https://github.com/user-attachments/assets/7d5367f9-4d4d-4396-ad04-ea128ebd9967)
 
 ---
 ## TIPS
