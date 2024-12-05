@@ -26,6 +26,13 @@ Install xfce4 and other required packages:
 ```
 apt install xfce4 xfce4-goodies sudo adduser
 ```
+Download a browser to access internet:
+```
+apt install chromium
+```
+```
+apt install firefox
+```
 Create an user to access the desktop:
 ```
 adduser <username>
