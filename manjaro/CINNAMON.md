@@ -51,33 +51,33 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 <username> ALL=(ALL:ALL) ALL
 ```
 ```
-git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
+git clone https://gitlab.manjaro.org/profiles-and-settings/desktop-settings.git
 ```
 ```
-cp -r manjaro-xfce-settings/skel/. /home/<username>/
+cp -r desktop-settings/skel/. /home/<username>/
 ```
 ```
 ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
 ```
 Execute ```exit``` until you appear in Termux Shell:
 ```
-wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-xfce.sh
+wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-cinnamon.sh
 ```
 ```
-nano manjaro-xfce.sh
+nano manjaro-cinnamon.sh
 ```
 Scroll to line 10 and change ```<username>``` to the user you created. Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 ```
-chmod +x manjaro-xfce.sh
+chmod +x manjaro-cinnamon.sh
 ```
 To run the desktop:
 ```
-./manjaro-xfce.sh
+./manjaro-cinnamon.sh
 ```
 If you use chromium do this step after Manjaro is launched:
-![1000250180](https://github.com/user-attachments/assets/c7ac6202-3e9e-43cf-a8c9-d5d9d6786ec7)
+
 Add the ```--no-sandbox``` flag:
-![1000250181](https://github.com/user-attachments/assets/38ad3a82-ac3e-4824-8f13-66c460d0239d)
+
 
 ---
 ## TIPS
