@@ -55,7 +55,7 @@ Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 git clone https://gitlab.manjaro.org/profiles-and-settings/desktop-settings.git
 ```
 ```
-cp -r desktop-settings/skel/. /home/<username>/
+cp -r desktop-settings/community/cinnamon/skel/. /home/<username>/
 ```
 ```
 ln -s /usr/share/icons/manjaro/maia/maia.svg /usr/share/icons/whiskermenu-manjaro.svg
