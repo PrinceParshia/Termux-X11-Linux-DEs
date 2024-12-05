@@ -27,7 +27,7 @@ This repository tries to give almost all the popular linux distributions to run 
 # NOT FINISHED 
 
 | FEDORA | DETAILS |
-|------|---------|
+|--------|---------|
 | <a href="/fedora/README.md"><img src="https://gitlab.com/uploads/-/system/project/avatar/37860711/fedora-icon.png" alt="Fedora Icon" width="125"></a> | Fedora is a free, open-source Red Hat Linux based operating system, known for its user-friendliness, and strong security.
 
 | UBUNTU | DETAILS |
