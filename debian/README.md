@@ -62,3 +62,19 @@ To run the desktop:
 ```
 ./debian-xfce.sh
 ```
+
+---
+## TIPS
+* Start Debian desktop using (in Termux Shell):
+```
+./debian-xfce.sh
+```
+Exit Termux fully from the notification bar to stop the desktop.
+* To login to debian shell in termux:
+```
+proot-distro login debian
+```
+With a specific user:
+```
+proot-distro login debian --user <username>
+```
