@@ -12,12 +12,12 @@ This repository tries to give almost all the popular linux distributions to run 
 |---------|---------|
 | <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="125"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible.
 
-| ARCH | DETAILS |
-|------|---------|
+|  ARCH  | DETAILS |
+|--------|---------|
 | <a href="/arch/README.md"><img src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" alt="Arch Icon" width="125"></a> | Arch Linux is a free, open-source operating system that is designed to be lightweight, flexible, and highly customizable.
 
 | OPENSUSE | DETAILS |
-|------|---------|
+|----------|---------|
 | <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
 # NOT FINISHED 
