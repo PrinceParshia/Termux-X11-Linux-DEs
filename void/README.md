@@ -27,5 +27,5 @@ xbps-install -Su
 ```
 Download xfce and other required packages:
 ```
-xbps-install -S xfce4 xfce4-goodies sudo
+xbps-install -S xfce4 sudo
 ```
