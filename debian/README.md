@@ -28,5 +28,30 @@ apt install xfce4 xfce4-goodies sudo adduser
 ```
 Create an user to access the desktop:
 ```
-adduser anemosfy
+adduser <username>
+```
+Give sudo access to your user:
+```
+nano /etc/sudoers
+```
+Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
+```
+<username> ALL=(ALL:ALL) ALL
+```
+Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
+<br>
+Execute ```exit``` until you reach in Termux Shell:
+```
+git clone https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/debian/debain-xfce.sh
+```
+```
+nano debian-xfce.sh
+```
+Scroll to line 10 and change ```<username>``` to your user you created in debian shell. Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
+```
+chmod +x debian-xfce.sh
+```
+To run the desktop:
+```
+./debian-xfce.sh
 ```
