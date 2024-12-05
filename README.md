@@ -20,12 +20,11 @@ This repository tries to give almost all the popular linux distributions to run 
 |----------|---------|
 | <a href="/opensuse/README.md"><img src="https://en.opensuse.org/images/c/cd/Button-colour.png" alt="openSUSE Icon" width="125"></a> | openSUSE is a free, open-source Linux-based operating system that is designed to be stable, versatile, and accessible.
 
-# NOT FINISHED 
-
-
 | DEBIAN | DETAILS |
-|------|---------|
-| <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="125"></a> | Debian is a free, open-source Linux-based operating system known for its stability, reliability, and extensive software support.
+|--------|---------|
+| <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="125"></a> | Debian is a free, open-source Linux-based operating system known for its stability, reliability, and extensive software support. 
+
+# NOT FINISHED 
 
 | FEDORA | DETAILS |
 |------|---------|
