@@ -29,3 +29,10 @@ Download xfce and other required packages:
 ```
 xbps-install -S xfce4 sudo
 ```
+Install a browser to access internet:
+```
+xbox-install -S chromium
+```
+```
+xbox-install -S firefox
+```
