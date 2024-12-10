@@ -50,10 +50,25 @@ Scroll and paste it under (root ALL=(ALL:ALL) ALL):
 To save and exit press CTRL - X - Y - ENTER.
 
 Arch linux dont have their own/default xfce theme. So i suggest a theme to use instead of the default xfce theme(optional):
+<br>
+Install the theme and other required packages:
 ```
-pacman -S arc-gtk-theme papirus-icon-theme noto-fonts
+pacman -S arc-gtk-theme papirus-icon-theme git
 ```
-
+Install the xfce configurations:
+```
+git clone https://github.com/Anemosfy/Arch-Linux-XFCE-Customization.git
+```
+Apply the configurations:
+```
+rm -r /home/<username>/.config/xfce4
+```
+```
+cp -r /root/Arch-Linux-XFCE-Customization/.config/xfce4 /home/<username>/.config/
+```
+```
+cp /root/Arch-Linux-XFCE-Customization/whiskermenu-archlinux.png /usr/share/icons/
+```
 <details>
 <summary>TERMUX X11 DEBUG</summary>
   
