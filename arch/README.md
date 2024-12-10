@@ -129,6 +129,8 @@ localhost:1
 ```
 </details>
 After Arch is launched:
+<br>
+If you use chromium do this step:
 
 ![1000250626](https://github.com/user-attachments/assets/b98f63ca-a829-456d-a7c0-32162e371cb4)
 ![1000250627](https://github.com/user-attachments/assets/2d45364f-4be0-4e72-9d6f-c5e488d89703)
