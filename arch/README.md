@@ -130,19 +130,9 @@ localhost:1
 </details>
 After Arch is launched:
 
-![1000250096](https://github.com/user-attachments/assets/e88fe330-0af6-412c-ba68-275ff52dea98)
-![1000250097](https://github.com/user-attachments/assets/24d97713-01ad-4ef6-b661-a5d3e2881601)
-![1000250098](https://github.com/user-attachments/assets/6ca08950-f29e-4a1a-97ab-0df6009d61ba)
-![1000250099](https://github.com/user-attachments/assets/4a1f6a76-1f16-4a65-9471-9bb41e43aec0)
-![1000250100](https://github.com/user-attachments/assets/ca33e67b-959e-450d-9453-774bd1a61327)
-![1000250101](https://github.com/user-attachments/assets/63f60ea7-c280-49ab-b73b-08b34a27ce0f)
-![1000250102](https://github.com/user-attachments/assets/5ef74294-8902-441b-acaa-8db8a49a1bf8)
-![1000250103](https://github.com/user-attachments/assets/e70a7f07-e080-4f03-9197-cc0cce15910e)
-![1000250104](https://github.com/user-attachments/assets/05767a10-9287-4ca7-bcb6-f955df0ec255)
-![1000250105](https://github.com/user-attachments/assets/0abf0cc3-e0d3-4052-bad2-53f4ca4809aa)
-![1000250106](https://github.com/user-attachments/assets/ba87356f-6ed9-4db0-868d-8aeffdd5b84d)
-![1000250107](https://github.com/user-attachments/assets/5318ff5f-3def-4543-a9d0-e1a3dd98b010)
-Your all done!
+![1000250626](https://github.com/user-attachments/assets/b98f63ca-a829-456d-a7c0-32162e371cb4)
+![1000250627](https://github.com/user-attachments/assets/2d45364f-4be0-4e72-9d6f-c5e488d89703)
+All done!
 
 ---
 ## TOOLTIP
