@@ -1,4 +1,7 @@
 ## ARCH XFCE
+![1000250622](https://github.com/user-attachments/assets/0ffde6ca-8eff-4337-aae5-73ed36704026)
+![1000250623](https://github.com/user-attachments/assets/f1aa1f82-c743-47fe-b0d9-7a1e0a4bcf65)
+
 ---
 #### NOTE
 * ~ $ is Termux Shell.
