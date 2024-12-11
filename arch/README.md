@@ -51,7 +51,7 @@ Scroll and paste it under (root ALL=(ALL:ALL) ALL):
 <username> ALL=(ALL:ALL) ALL
 ```
 To save and exit press CTRL - X - Y - ENTER.
-
+<br>
 Arch linux dont have their own/default xfce theme. So i suggest a theme to use instead of the default xfce theme(optional):
 <br>
 Install the theme and other required packages:
@@ -72,6 +72,7 @@ cp -r /root/Arch-Linux-XFCE-Customization/.config/xfce4 /home/<username>/.config
 ```
 cp /root/Arch-Linux-XFCE-Customization/whiskermenu-archlinux.png /usr/share/icons/
 ```
+---
 ## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you appear in Termux Shell.
 Download the Arch Startup file:
@@ -89,6 +90,7 @@ Start Arch desktop with:
 ```
 ./arch-xfce.sh
 ```
+---
 ## TO DO AFTER INSTALLATION (CHROMIUM)
 After Arch is launched:
 <br>
