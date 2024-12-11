@@ -46,7 +46,9 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 <username> ALL=(ALL:ALL) ALL
 ```
 Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
-<br>
+
+---
+## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you reach in Termux Shell:
 ```
 wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/debian/debain-xfce.sh
@@ -62,7 +64,11 @@ To run the desktop:
 ```
 ./debian-xfce.sh
 ```
-After debian is launched: If you use chromium do this step:
+---
+## TO DO AFTER INSTALLATION
+After debian is launched:
+<br>
+If you use chromium do this step:
 ![1000250189](https://github.com/user-attachments/assets/b09b86a1-0acf-4ffb-8a4a-6c770a6c9d09)
 ![1000250190](https://github.com/user-attachments/assets/17213aee-2c41-42a8-b632-9f6c0d9cbc02)
 ![1000250191](https://github.com/user-attachments/assets/1f3b80c3-09dd-4913-bca1-07f17f44ea97)
