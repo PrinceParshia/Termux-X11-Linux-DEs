@@ -2,7 +2,7 @@
 ![1000250177](https://github.com/user-attachments/assets/a792198d-7804-41de-ae53-b10025ff483b)
 
 ---
-#### NOTE
+### NOTE
 * ~ $ is Termux Shell.
 * [root@localhost ~]# is Manjaro Shell.
 ---
@@ -58,6 +58,7 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 cp -r manjaro-xfce-settings/skel/. /home/<username>/
 ```
+---
 ## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you appear in Termux Shell:
 ```
@@ -74,6 +75,7 @@ To run the desktop:
 ```
 ./manjaro-xfce.sh
 ```
+---
 ## TO DO AFTER INSTALLATION (CHROMIUM)
 After Manjaro is launched:
 <br>
