@@ -5,7 +5,7 @@
 #### NOTE
 * ~ $ is Termux Shell.
 * localhost:~ # is openSUSE Shell.
-
+---
 ## MAIN STEPS
 Open Termux and install required packages:
 ```
@@ -39,9 +39,8 @@ Create an user to access the desktop:
 ```
 useradd -m <username>
 ```
-<details>
-<summary>TERMUX X11 DEBUG</summary>
-  
+---
+## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you appear in Termux Shell.
 Download the openSUSE Startup file:
 ```
@@ -58,47 +57,8 @@ Start openSUSE desktop with:
 ```
 ./opensuse-xfce.sh
 ```
-
-</details>
-<details>
-<summary>VNC DEBUG</summary>
-
-Make sure your in openSUSE Shell and execute this command:
-```
-zypper install tigervnc
-```
-Set a password for the vnc connection:
-```
-vncpasswd
-```
-Start vncserver:
-```
-mkdir -p ~/.vnc
-echo "#!/bin/bash" > ~/.vnc/xstartup
-echo "startxfce4 &" >> ~/.vnc/xstartup
-chmod +x ~/.vnc/xstartup
-```
-To run vnc In Termux Shell:
-```
-wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/opensuse/opensuse-xfce-vnc.sh
-```
-Change ```<username>``` line 6 to your created user:
-```
-nano opensuse-xfce-vnc.sh
-```
-CTRL - X - Y - ENTER
-```
-chmod +x opensuse-xfce-vnc.sh
-```
-```
-./opensuse-xfce-vnc.sh
-```
-Open RealVNC Viewer and connect to the screen with the ip 
-```
-localhost:1
-```
-</details>
-
+---
+## TO DO AFTER INSTALLATION
 After openSUSE is launched:
 ![1000250115](https://github.com/user-attachments/assets/f949680e-4abe-4d4c-9627-85a8bb8235b6)
 ![1000250116](https://github.com/user-attachments/assets/36ecf34b-10e9-498b-b5eb-3def092b2aa0)
