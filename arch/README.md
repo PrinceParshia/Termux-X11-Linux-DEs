@@ -69,9 +69,7 @@ cp -r /root/Arch-Linux-XFCE-Customization/.config/xfce4 /home/<username>/.config
 ```
 cp /root/Arch-Linux-XFCE-Customization/whiskermenu-archlinux.png /usr/share/icons/
 ```
-<details>
-<summary>TERMUX X11 DEBUG</summary>
-  
+## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you appear in Termux Shell.
 Download the Arch Startup file:
 ```
@@ -88,46 +86,7 @@ Start Manjaro desktop with:
 ```
 ./arch-xfce.sh
 ```
-
-</details>
-<details>
-<summary>VNC DEBUG</summary>
-
-Make sure your in Arch Shell and execute this command:
-```
-sudo pacman -S tigervnc
-```
-Set a password for the vnc connection:
-```
-vncpasswd
-```
-Start vncserver:
-```
-mkdir -p ~/.vnc
-echo "#!/bin/bash" > ~/.vnc/xstartup
-echo "startxfce4 &" >> ~/.vnc/xstartup
-chmod +x ~/.vnc/xstartup
-```
-To run vnc In Termux Shell:
-```
-wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/arch/arch-xfce-vnc.sh
-```
-Change ```<username>``` line 6 to your created user:
-```
-nano arch-xfce-vnc.sh
-```
-CTRL - X - Y - ENTER
-```
-chmod +x arch-xfce-vnc.sh
-```
-```
-./arch-xfce-vnc.sh
-```
-Open RealVNC Viewer and connect to the screen with the ip 
-```
-localhost:1
-```
-</details>
+## TO DO AFTER INSTALLATION (CHROMIUM)
 After Arch is launched:
 <br>
 If you use chromium do this step:
