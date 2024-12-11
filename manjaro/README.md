@@ -58,6 +58,7 @@ git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings
 ```
 cp -r manjaro-xfce-settings/skel/. /home/<username>/
 ```
+## INSTALL DEBUG METHOD (TERMUX-X11)
 Execute ```exit``` until you appear in Termux Shell:
 ```
 wget https://raw.githubusercontent.com/Anemosfy/Termux-X11-Linux-DEs/refs/heads/main/manjaro/manjaro-xfce.sh
@@ -73,10 +74,14 @@ To run the desktop:
 ```
 ./manjaro-xfce.sh
 ```
-If you use chromium do this step after Manjaro is launched:
+## TO DO AFTER INSTALLATION (CHROMIUM)
+After Manjaro is launched:
+<br>
+If you use chromium do this step:
 ![1000250180](https://github.com/user-attachments/assets/c7ac6202-3e9e-43cf-a8c9-d5d9d6786ec7)
 Add the ```--no-sandbox``` flag:
 ![1000250181](https://github.com/user-attachments/assets/38ad3a82-ac3e-4824-8f13-66c460d0239d)
+All done!
 
 ---
 ## TIPS
