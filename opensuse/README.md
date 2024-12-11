@@ -63,6 +63,7 @@ After openSUSE is launched:
 ![1000250115](https://github.com/user-attachments/assets/f949680e-4abe-4d4c-9627-85a8bb8235b6)
 ![1000250116](https://github.com/user-attachments/assets/36ecf34b-10e9-498b-b5eb-3def092b2aa0)
 ![1000250117](https://github.com/user-attachments/assets/228985ef-49a9-4471-9c87-65ab4b88f47c)
+If you use chromium continue:
 ![1000250119](https://github.com/user-attachments/assets/45dff362-d628-4603-a4cf-3a73966bbace)
 ![1000250118](https://github.com/user-attachments/assets/136b1378-881e-4e5a-8203-331db465309f)
 ![1000250120](https://github.com/user-attachments/assets/88c3a91b-1c34-45d1-9c7e-efcb461f927b)
