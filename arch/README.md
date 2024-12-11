@@ -85,7 +85,7 @@ Scroll to line 10 and change ```<username>``` to your username you created in Ar
 ```
 chmod +x arch-xfce.sh
 ```
-Start Manjaro desktop with: 
+Start Arch desktop with: 
 ```
 ./arch-xfce.sh
 ```
@@ -95,6 +95,7 @@ After Arch is launched:
 If you use chromium do this step:
 
 ![1000250626](https://github.com/user-attachments/assets/b98f63ca-a829-456d-a7c0-32162e371cb4)
+Add the ```--no-sandbox``` flag:
 ![1000250627](https://github.com/user-attachments/assets/2d45364f-4be0-4e72-9d6f-c5e488d89703)
 All done!
 
