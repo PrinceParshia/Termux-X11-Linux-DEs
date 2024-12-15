@@ -53,7 +53,7 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 ```
-git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
+git clone https://github.com/manjaro-arm/manjaro-xfce-settings.git
 ```
 ```
 cp -r manjaro-xfce-settings/skel/. /home/<username>/
