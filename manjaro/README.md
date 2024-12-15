@@ -53,6 +53,9 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 ```
+su - anemosfy
+```
+```
 git clone https://gitlab.manjaro.org/packages/extra/manjaro-xfce-settings.git
 ```
 ```
