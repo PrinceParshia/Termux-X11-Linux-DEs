@@ -53,16 +53,10 @@ Scroll and paste it under ```root ALL=(ALL:ALL) ALL```:
 ```
 Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 ```
-su - anemosfy
+git clone https://gitlab.manjaro.org/profiles-and-settings/manjaro-xfce-settings.git
 ```
 ```
-git clone https://gitlab.manjaro.org/packages/extra/manjaro-xfce-settings.git
-```
-```
-cd manjaro-xfce-settings/
-```
-```
-makepkg -si
+mv manjaro-xfce-settings/skel/. /home/<username>/
 ```
 ---
 ## INSTALL DEBUG METHOD (TERMUX-X11)
