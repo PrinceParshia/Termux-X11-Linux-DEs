@@ -56,6 +56,9 @@ Save and exit with key ```CTRL``` - ```X``` - ```Y``` - ```ENTER```.
 git clone https://gitlab.manjaro.org/packages/extra/manjaro-xfce-settings.git
 ```
 ```
+cd manjaro-xfce-settings/
+```
+```
 makepkg -si
 ```
 ---
