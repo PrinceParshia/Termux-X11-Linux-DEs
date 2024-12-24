@@ -35,6 +35,13 @@ Install xfce4 and other required packages:
 ```
 pacman -S xfce4 xfce4-goodies pamac manjaro-release manjaro-system manjaro-settings-manager manjaro-hotfixes manjaro-arm-tools manjaro-base-skel manjaro-icons matcha-gtk-theme papirus-maia-icon-theme noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra xcursor-breeze xcursor-maia qt5ct kvantum kvantum-theme-matchama viewnior audacious mugshot sudo git
 ```
+Choose a browser to access internet:
+```
+pacman -S firefox
+```
+```
+pacman -S chromium
+```
 Create an user to access the desktop:
 ```
 useradd -m <username>
