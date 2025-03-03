@@ -10,7 +10,7 @@ This repository tries to give almost all the popular linux distributions to run 
 
 | MANJARO | DETAILS |
 |---------|---------|
-| <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/green/128x128.png?ref_type=heads" alt="Manjaro Icon" width="100"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible. |
+| <a href="/manjaro/README.md"><img src="https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons/-/raw/master/2022/128x128.png?ref_type=heads" alt="Manjaro Icon" width="100"></a> | Manjaro is a free, open-source Arch Linux based operating system that is designed to be user-friendly and accessible. |
 
 | ARCH | DETAILS |
 |------|---------|
