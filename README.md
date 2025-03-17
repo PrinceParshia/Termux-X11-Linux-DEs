@@ -23,17 +23,3 @@ This repository tries to give almost all the popular linux distributions to run 
 | DEBIAN | DETALS |
 |--------|--------|
 | <a href="/debian/README.md"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Icon" width="100"></a> | Debian is a free, open-source Linux-based operating system known for its stability, reliability, and extensive software support. |
-
-# NOT FINISHED 
-
-| VOID | DETAILS |
-|------|---------|
-| <a href="/void/README.md"><img src="https://voidlinux.org/assets/img/void_bg.png" alt="Void Icon" width="100"></a> | Void Linux is a free, open-source system focused on simplicity and efficiency. It uses the lightweight runit init system and a rolling release model.
-
-| FEDORA | DETAILS |
-|--------|---------|
-| <a href="/fedora/README.md"><img src="https://gitlab.com/uploads/-/system/project/avatar/37860711/fedora-icon.png" alt="Fedora Icon" width="100"></a> | Fedora is a free, open-source Red Hat Linux based operating system, known for its user-friendliness, and strong security.
-
-| UBUNTU | DETAILS |
-|--------|---------|
-| <a href="/ubuntu/README.md"><img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Xubuntu Icon" width="100"></a> | Ubuntu is a free, open-source Linux OS based on Debian, known for its simplicity, stability, and wide user support.
