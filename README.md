@@ -1,4 +1,4 @@
-# ARCHIVED (WILL NO LONGER TAKR ANY UPDATES)
+# ARCHIVED (WILL NO LONGER TAKE ANY UPDATES)
 
 ## Termux-X11-Linux-DEs
 This repository tries to give almost all the popular linux distributions to run in android with maximum performance and maximum customization.
